@@ -32,8 +32,7 @@ A dedicated mobile developer specializing in iOS app creation and maintenance, w
 
 * Author articles and tutorials on Medium and my blog, covering topics from SwiftUI workflows to Flutter tips.
 
-```
-“Passion drives innovation; clarity drives success.”
-```
+
+> “Passion drives innovation, clarity drives success.”
 
 Feel free to explore my repositories for production-ready iOS projects, Flutter demos, and step-by-step guides. Let’s build something amazing together!
